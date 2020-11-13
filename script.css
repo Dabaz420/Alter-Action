@@ -68,7 +68,7 @@
       }
 }
 
-@media(max-width: 480px){
+@media(max-width: 375px){
 
     .cover{     
         height: 200px;
