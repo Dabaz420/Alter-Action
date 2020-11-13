@@ -1,4 +1,4 @@
-@media(min-width: 600px){
+@media(min-width: 1200px){
 
     .cover{     
         height: 350px;
@@ -33,7 +33,7 @@
       }
 }
 
-@media(max-width: 600px){
+@media(max-width: 1024px){
 
     .cover{     
         height: 200px;
@@ -68,7 +68,7 @@
       }
 }
 
-@media(max-width: 375px){
+@media(max-width: 480px){
 
     .cover{     
         height: 200px;
